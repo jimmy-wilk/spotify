@@ -6,7 +6,7 @@ import { ArtistDetails, TopArtists, AroundYou, Discover, Search, SongDetails, To
 
 const App = () => {
   const { activeSong } = useSelector((state) => state.player);
-
+hellomain
   return (
     <div className="relative flex">
       <Sidebar />
